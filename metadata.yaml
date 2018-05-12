@@ -1,0 +1,29 @@
+_repo: Oliver-Cromwell_45010
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45010-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gardiner, Samuel Rawson
+    birthdate: 1829
+    deathdate: 1902
+    gutenberg_agent_id: '33168'
+    url: http://www.gutenberg.org/2009/agents/33168
+description: This volume is an extensive biography of Oliver Cromwell, but according
+  to its preface, the author suggests that it is a history. Gardiner makes a point
+  to distinguish a history with a biographical viewpoint from that of a strict biography.
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cromwell, Oliver, 1599-1658'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Commonwealth and Protectorate, 1649-1660'
+title: Oliver Cromwell
+url: http://www.gutenberg.org/ebooks/45010
